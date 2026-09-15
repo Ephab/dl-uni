@@ -11,6 +11,7 @@ Lab material for ARTI 402. Each folder contains the notebook and any data files 
 |---|---|---|
 | [lab01](./lab01) | From a Single Neuron to a Layer | 1 |
 | [lab02](./lab02) | Activations, Loss, and How a Network Learns | 2 |
+| [lab03](./lab03) | CNN Architecture | 3 |
 
    
 ## How to use this repo
