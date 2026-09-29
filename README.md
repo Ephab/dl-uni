@@ -12,8 +12,12 @@ Lab material for ARTI 402. Each folder contains the notebook and any data files 
 | [lab01](./lab01) | From a Single Neuron to a Layer | 1 |
 | [lab02](./lab02) | Activations, Loss, and How a Network Learns | 2 |
 | [lab03](./lab03) | CNN Architecture | 3 |
+| [lab04](./lab04) | RNN & LSTM Architecture | 4 |
+| [lab05](./lab05) | Optimization Algorithms | 5 |
+<!-- | [lab06](./lab06) | Optimization Algorithms (cont.)| 6 | -->
 
-   
+Each lab folder contains everything that lab needs. Download the **whole folder**, not just the notebook.
+  
 ## How to use this repo
 
 **Students** — your instructor will share the link to the relevant lab folder each week. Clone or download that folder, work through the notebook, and submit via your own repository as instructed.
@@ -29,5 +33,6 @@ Lab material for ARTI 402. Each folder contains the notebook and any data files 
 ## Reference books
  
 - Kinsley, H. & Kukieła, D. — *Neural Networks from Scratch in Python*
+- Ekman, M. — *Learning Deep Learning*
 
 ---
